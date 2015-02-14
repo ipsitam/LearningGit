@@ -7,6 +7,8 @@ class JqgridController {
 
     def index() { 
 		println("###################entering to controller####################")
+		println("###################Git diff####################")
+		println("###################Git Repo:Testing####################")
 		def gridList=[]
 		def gridListMap=[:]
 		def responseMap=[:]
